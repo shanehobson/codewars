@@ -22,4 +22,4 @@ function determinant(m) {
           }
         });
     }
-  };
+};
