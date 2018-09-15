@@ -34,6 +34,5 @@ function formatDuration (seconds) {
     } else {
        return resultArr.join();
     }
-     
 }
   
